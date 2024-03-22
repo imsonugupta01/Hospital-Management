@@ -1,0 +1,19 @@
+@media (max-width:768px) {
+    #doc-attendece h1{
+       width:  100%;
+       /* display: inline-block; */
+       display: flex;
+       position: relative;
+       bottom: 10%;
+       font-size: xx-large;
+       
+    }
+    #doc-list {
+       position: relative;
+       right: 45%;
+       /* width: 100vw; */
+
+    }
+
+    
+}

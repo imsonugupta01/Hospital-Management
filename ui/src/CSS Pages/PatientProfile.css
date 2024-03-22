@@ -1,0 +1,67 @@
+/* styles.css */
+#hh{
+  display: block;
+  background-color: rgb(4, 140, 140);;
+  text-align: center;
+  color: black;
+  /* width: 10rem; */
+}
+#patientProfileContainer {
+    max-width: 600px;
+    /* width: 100vh; */
+    margin: auto;
+    margin-top: 0px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+  
+  .profileImage {
+   margin-top: 10px;
+    height: 100px;
+    width: 95px;
+    border-radius: 100px;
+  }
+  .appoint-div {
+    margin-top: 20px;
+    background-color: rgb(128, 128, 128);
+    padding: 10px; /* Adjust the padding as needed */
+    border-radius: 8px; /* Add rounded corners if desired */
+  }
+  
+  .appoint-div span {
+    /* background-color: rgb(4, 140, 140);; */
+    display: block;
+    margin-bottom: 15px; /* Adjust the margin between appointment entries */
+    padding: 10px; /* Add padding to each span if needed */
+  }
+  
+  .appoint-div p {
+    margin: 5px 0;
+    color: #fff;
+  }
+  
+  .appoint-div b {
+    color: #fff; /* Change text color for bold elements */
+  }
+  #btn,#l1{
+    width: 150px;
+    background-color: rgb(4, 140, 140);
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 10px;
+    
+    
+  }
+
+  #ll{
+    text-decoration: none;
+    
+  }
+  
+  #hs{
+    margin-left: 2px;
+    color: rgb(142, 138, 138);
+    text-decoration: dotted;
+  }

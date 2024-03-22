@@ -1,0 +1,46 @@
+#imgg{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+#hh{
+    background-color: rgb(4, 140, 140);;
+    text-align: center;
+    color: black;
+    
+}
+#idiv{
+    text-align: center;
+    
+    
+}
+#pp1{
+    font-size: 20px;
+}
+#ss1{
+    margin: 30px;
+    margin-left: 50px;
+    padding: 25px;
+    width: 270px;
+    height: 30px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    background-color:  rgb(4, 140, 140);
+    text-decoration: none;
+}
+
+#bbbbt1{
+    background-color:rgb(4, 140, 140); 
+    color: white;
+    border-radius: 10px;
+    font-size: 12px;
+}
+@media (max-width:768px) {
+
+    #prof{
+        position: relative;
+        top: 2vh;
+    }
+}

@@ -1,0 +1,27 @@
+#gdlck{
+    color: rgb(229, 129, 146);
+    text-align: center;
+}
+#meetlinkdiv{
+   
+    width: 400px;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+#i1{
+    width: 350px;
+}
+#btt1{
+    margin-left: 100px;
+}
+
+#i2{
+    height: 250px;
+    width: 350px;
+    
+}
+#btt2{
+    margin-left: 150px;
+    margin-top: 5px;
+    width: 90;
+}

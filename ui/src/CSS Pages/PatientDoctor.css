@@ -1,0 +1,56 @@
+
+
+
+.label-container {
+  margin-top: 20px;
+}
+
+.selectlabel {
+  width: 100px;
+  height: 200px;
+  margin-left: 40%;
+  
+}
+.ss{
+  width: 200px;
+  height: 30px;
+}
+.doctor-info {
+  margin-top: 40px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.doctor-info {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 20px; /* Increase the padding to increase the size */
+  border: 1px solid #ddd; /* Add a border for better separation */
+  border-radius: 8px; /* Add border-radius for rounded corners */
+  width: fit-content;
+}
+
+.your-button-class {
+  /* Add your button styles here */
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Add any additional styles as needed */
+
+@media screen and (max-width: 768px) {
+  /* Adjust styles for smaller screens if needed */
+  .doctor-info {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}

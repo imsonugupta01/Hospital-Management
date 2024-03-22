@@ -1,0 +1,9 @@
+@media (max-width:768px) {
+   #doc-pat{
+    width: 100vw;
+   position: relative;
+   top: 20px;
+
+   }
+    
+}

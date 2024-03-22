@@ -1,0 +1,52 @@
+#d1{
+    padding-top:30px;
+    padding-bottom: 20px;
+}
+#l2{
+    
+    border: 0px solid black;
+    border-radius: 20px;
+    
+    
+    text-decoration: none;
+}
+#p1{
+    width: 980px;
+    
+}
+
+#doctorProfileContainer{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+#hhh3{
+    background-color: rgb(4, 140, 140);;
+    text-align: center;
+   width: 100dvh;
+   margin: 0px;
+}
+.profileHeader {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  #hh{
+    background-color: rgb(4, 140, 140);;
+    text-align: center;
+    color: black;
+  }
+  @media (max-width:768px) {
+    /* #doctorProfileContainer h1 */
+    #hh
+    {
+        /* width: 120%vw; */
+        width: 60%;
+        position: relative;;
+        bottom: 20px;
+        width: 100%;
+        background-color: rgb(29, 116, 116);
+
+    }
+    
+  }

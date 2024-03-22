@@ -1,0 +1,55 @@
+/* styles.css */
+
+#homePageContainer,option {
+    max-width: 600px;
+    /* margin-left: 200px;
+    margin-top: 150px; */
+    margin: auto;
+    margin-top: 200px;
+   
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* .formContainer {
+    margin-bottom: 20px;
+    
+  } */
+  
+  .formContainer label {
+    display: block;
+    margin-bottom: 5px;
+    
+  }
+  
+  .formContainer input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+    width: 150px;
+    
+  }
+  .ss{
+    width: 200px;
+    height: 30px;
+}
+ 
+
+@media (max-width:768px)
+{
+ 
+  .formContainer{
+    width: 70vw;
+    margin-left: 10%;
+    margin-top: 1%;
+  }
+}
+  
+  /* Add more styles as needed */
+  

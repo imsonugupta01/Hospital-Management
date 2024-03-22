@@ -1,0 +1,28 @@
+#hh1{
+    background-color: rgb(4, 140, 140);;
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    font-weight: 700;
+    
+}
+
+
+@media (max-width:768px) {
+    #connect-doc{
+        width: 100%vw;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        /* background-color: rgb(230, 242, 242); */
+    }
+    #hh1{
+        background-color: rgb(20, 134, 134);
+        font-size: 2rem;
+        font-weight: bolder;
+        color: black;
+        
+
+    }
+    
+}

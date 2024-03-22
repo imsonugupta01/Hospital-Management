@@ -1,0 +1,35 @@
+#hx{
+    background-color:rgb(4, 140, 140) ;
+    text-align: center;
+}
+#dm{
+    margin-top: 50px;
+    text-align: center;
+}
+#dm2{
+    background-color: rgba(13, 122, 122, 0.822);
+}
+#hx2{
+    text-align: center;
+    margin-top: 100px;
+   
+}
+#txt1{
+    width: 350px;
+    height: 50px;
+    margin-left: 470px;
+    margin-bottom: 0px;
+}
+#ssss{
+    margin-left: 570px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#hx3{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 470px;
+    font-weight: bold;
+
+}

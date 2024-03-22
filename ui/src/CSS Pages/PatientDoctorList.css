@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .appointment-page {
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+  
+  #ap1 {
+    width: 100%;
+    background-color: rgb(4, 140, 140);
+    font-size: 40px;
+   
+  }
+  
+  .appointment-page h1 {
+    color: #333;
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  
+  .details-container {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+    text-align: left;
+  }
+  
+  .details-container p {
+    margin: 8px 0;
+  }
+  
+  .details-container p b {
+    color: #555;
+  }
+  /* Assuming your existing styles for profile-image and h2 are included */
+
+  .profile-container {
+    display: flex;
+    align-items: start;
+    
+    margin-right: 900px; /* This will push the container to the left */
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 10px; /* Add some margin between image and text */
+    object-fit: cover;
+  }
+  
+  h2 {
+    margin: 0; /* Remove default margin for h2 */
+  }
+  #bt1,Link{margin-left: 550px;
+    background-color: darkcyan;
+    text-decoration: none;
+    
+    border-radius: 10px;
+    width: 260px;
+  }
+  
+  #l1{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+  
